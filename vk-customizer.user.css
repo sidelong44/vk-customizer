@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* ==UserStyle==
+@name           vk-customizer
+@namespace      github.com/sidelong44/vk-customizer
+@version        1.0.0
+@description    Улучшение Вконтакте
+@author         sidelong44
+@homepageURL https://github.com/sidelong44/vk-customizer
+@supportURL https://github.com/sidelong44/vk-customizer/issues/
+@updateURL https://raw.githubusercontent.com/sidelong44/vk-customizer/master/vk-customizer.user.css
+==/UserStyle== */
+@-moz-document domain("vk.com") { [dir=ltr] .im-page .im-page--history { margin-right: 317px; margin-left: 0; }
+  [dir=ltr] .im-page .im-page--dialogs { float: right; } }

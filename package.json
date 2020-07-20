@@ -1,7 +1,10 @@
 {
-   "name": "$name$",
-   "version": "$version$",
+   "name": "vk-dialog-swap",
+   "version": "1.0.0",
+   "scripts": {
+      "compile": "node index.js"
+   },
    "dependencies": {
-      $END$
+      "node-sass": "^4.14.1"
    }
 }
